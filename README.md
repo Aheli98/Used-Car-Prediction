@@ -1,4 +1,4 @@
-# Used Car Price Prediction & Trust Score Analysis
+# Used Car Price Prediction
 
 This project analyzes and predicts used car prices using a dataset of US dealer listings. It applies data cleaning, feature engineering, regression modeling, and trust score evaluation to provide insights into price drivers and model reliability.
 
